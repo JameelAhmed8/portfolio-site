@@ -1,0 +1,29 @@
+
+
+.exp_container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+
+}
+
+.exp_container > div{
+    padding: 0.9rem 3rem;
+    border-radius: 2rem;
+    border: 1px solid white;
+    background: var(--color-bg-variant);
+
+
+}
+
+.experience_frontend:hover{
+    background: var(--color-light);
+} 
+
+.experience_frontend:hover{
+    background: var(--color-light);
+} 
+
+.experience_backend:hover{
+    background: var(--color-light);
+}
